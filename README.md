@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Baurine, a common 1x developer but keep coding and keep learning.
+
+- 🔭 I’m currently working on PingCAP as a frontend developer.
+- 🌱 I’m currently learning Go and Rust.
